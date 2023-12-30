@@ -1,0 +1,23 @@
+*{
+    margin:5px;
+    padding:0;
+    font-family: 'popkins',sans-serif;
+}
+body{
+    text-align: center;
+    background-color:beige;
+}
+#box{
+    border:1px solid black;
+}
+p{
+    text-align: left;
+    font-style: italic;
+   
+}
+p img{
+    display:flex;
+   
+}
+
+
